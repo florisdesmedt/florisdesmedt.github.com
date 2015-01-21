@@ -10,10 +10,10 @@ highlighter: pygments
 #
 title : Jekyll Bootstrap
 tagline: Site Tagline
-author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
+author : 
+  name : Floris De Smedt
+  email : floris.desmedt@gmail.com
+  github : florisdesmedt
   twitter : username
   feedburner : feedname
 
